@@ -1,3 +1,3 @@
-== Fancybox Example app.
+== Fancybox Example App
 
 See http://richonrails.com/articles/fancybox-and-rails for details.
